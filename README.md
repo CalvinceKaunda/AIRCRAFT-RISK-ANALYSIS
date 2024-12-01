@@ -6,11 +6,11 @@
  They are new to the industry and do not know the risk. They would like an aircraft with lowest risk 
  to start their business endevour.
 
-The data is from kaggle:  kaggle.com/datasets/khsamaha/aviation-accident-database-synopses and 
-conatins information about aviation accidents and incidents in the U.S and its environs 
+The data is from kaggle under the name - Aviation Accident Database & Synopses, up to 2023
+It contains information about aviation accidents and incidents in the U.S and its environs 
 
 ## Conclusion and findings
-Hence, I would recommend Airplanes for entry into business as this is the aircraft with the highest number of non fatalities, hence quite safe for consumers.
+I would recommend Airplanes for entry into business as this is the aircraft with the highest number of non fatalities, hence quite safe for consumers.
 The risk being considered here is in terms of the non-fatalities
 
 If the risk being considered is in terms of damages I would reccommend balloons as the have the least
